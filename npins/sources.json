@@ -1,0 +1,17 @@
+{
+  "pins": {
+    "mkDevShell": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "bzm3r",
+        "repo": "mkDevShell"
+      },
+      "branch": "main",
+      "revision": "a28d526fca9a98cdaa8f57c8d00936a4ee7aa26d",
+      "url": "https://github.com/bzm3r/mkDevShell/archive/a28d526fca9a98cdaa8f57c8d00936a4ee7aa26d.tar.gz",
+      "hash": "0b979m3di945bwyc97m3jza8bih0p2j7xn4mbmrz144zd0sv1204"
+    }
+  },
+  "version": 3
+}
